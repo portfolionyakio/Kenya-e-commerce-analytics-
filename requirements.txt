@@ -1,0 +1,10 @@
+--extra-index-url https://pytorch.org
+torch
+transformers
+sentencepiece
+protobuf
+streamlit
+pandas
+numpy
+matplotlib
+emoji
